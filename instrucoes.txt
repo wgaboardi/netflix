@@ -1,0 +1,10 @@
+criar projeto
+criar pastas
+ style
+ js
+ resources
+index.html
+
+plugins - live server / auto rename tag (fecha a tag final automaticamente ou renomeia) / dracula official (theme)
+
+alt+shift+baixo (clonar linha)
